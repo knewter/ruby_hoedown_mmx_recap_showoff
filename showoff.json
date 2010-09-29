@@ -1,0 +1,10 @@
+{
+  "name": "Ruby Hoedown MMX Recap",
+  "description": "Thie is a recap of the talks from the Ruby Hoedown MMX",
+  "sections": [
+    {"section":"intro"},
+    {"section":"nuby-hoedown"},
+    {"section":"day-one"},
+    {"section":"day-two"}
+  ]
+}
